@@ -1,0 +1,479 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='91'>
+    <iu id='org.jboss.tools.cdi.deltaspike.feature.feature.group' name='Apache Deltaspike Tools' version='1.6.0.CR1-v20140829-2008-B53'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.arquillian.feature.feature.group' name='Arquillian support (Experimental)' version='1.1.2.CR1-v20140830-0003-B63'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.cdi.feature.feature.group' name='Context and Dependency Injection Tools' version='1.6.0.CR1-v20140829-2008-B53'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='com.google.dart.eclipse.feature.feature.group' name='Dart Editor for Eclipse' version='1.7.0.dev_04_00'>
+      <repositories size='1'>
+        <repository location='http://www.dartlang.org/eclipse/update/channels/dev/'/>
+      </repositories>
+    </iu>
+    <iu id='com.github.eclipsecolortheme.feature.feature.group' name='Eclipse Color Theme' version='0.14.0.201407150859'>
+      <repositories size='1'>
+        <repository location='http://eclipse-color-theme.github.com/update'/>
+      </repositories>
+    </iu>
+    <iu id='epp.package.jee' name='Eclipse IDE for Java EE Developers' version='4.4.1.20140925-1820'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/luna'/>
+      </repositories>
+    </iu>
+    <iu id='org.springsource.ide.eclipse.commons.quicksearch.feature.feature.group' name='Eclipse Quicksearch' version='3.6.2.201409231646-CI-B48'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.forge.feature.feature.group' name='Forge Tools' version='1.3.0.CR1-v20140912-2255-B61'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.forge.ext.feature.feature.group' name='Forge Tools Extensions (Experimental)' version='1.3.0.CR1-v20140912-2255-B61'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.springsource.ide.eclipse.gradle.feature.feature.group' name='Gradle IDE' version='3.6.2.201409292203-CI-B282'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.grails.ide.eclipse.feature.group' name='Grails IDE' version='3.6.2.201409231702-CI-B816'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.codehaus.groovy20.feature.feature.group' name='Groovy Compiler 2.0 Feature' version='2.9.1.xx-201409181507-e44'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.codehaus.groovy21.feature.feature.group' name='Groovy Compiler 2.1 Feature' version='2.9.1.xx-201409181507-e44'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.codehaus.groovy22.feature.feature.group' name='Groovy Compiler 2.2 Feature' version='2.9.1.xx-201409181507-e44'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.codehaus.groovy23.feature.feature.group' name='Groovy Compiler 2.3 Feature' version='2.9.1.xx-201409181507-e44'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.codehaus.groovy.eclipse.feature.feature.group' name='Groovy-Eclipse Feature' version='2.9.1.xx-201409181507-e44'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.codehaus.groovy.m2eclipse.feature.feature.group' name='Groovy-Eclipse M2E integration' version='2.9.1.xx-201409181507-e44'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.hibernate.eclipse.feature.feature.group' name='Hibernate Tools' version='4.0.0.CR1-v20140911-2040-B77'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse_icons.editor.feature.feature.group' name='Icons Editor Feature' version='2.4.1.201311032200'>
+      <repositories size='1'>
+        <repository location='http://eclipse-icons-editor.eclipselabs.org.codespot.com/git/site/org.eclipse_icons.editor.site/'/>
+      </repositories>
+    </iu>
+    <iu id='be.ac.vub.jar2uml.feature.group' name='Jar2UML' version='1.1.17'>
+      <repositories size='1'>
+        <repository location='http://soft.vub.ac.be/eclipse/update-3.7/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.ws.jaxrs.feature.feature.group' name='JBoss JAX-RS Tools' version='1.7.0.CR1-v20140911-1803-B60'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.maven.cdi.feature.feature.group' name='JBoss Maven CDI Configurator' version='1.6.0.CR1-v20140912-1902-B92'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.maven.jdt.feature.feature.group' name='JBoss Maven Endorsed Libraries Configurator' version='1.6.0.CR1-v20140912-1902-B92'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.maven.hibernate.feature.feature.group' name='JBoss Maven Hibernate Configurator' version='1.6.0.CR1-v20140912-1902-B92'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.maven.feature.feature.group' name='JBoss Maven Integration' version='1.6.0.CR1-v20140912-1902-B92'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.maven.portlet.feature.feature.group' name='JBoss Maven Portlet Configurator' version='1.6.0.CR1-v20140912-1902-B92'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.maven.project.examples.feature.feature.group' name='JBoss Maven Project Examples' version='2.0.0.CR1-v20140912-1902-B92'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.maven.seam.feature.feature.group' name='JBoss Maven Seam Integration' version='1.6.0.CR1-v20140912-1902-B92'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.portlet.feature.feature.group' name='JBoss Portlet' version='1.6.0.CR1-v20140830-0005-B15'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.runtime.seam.detector.feature.feature.group' name='JBoss Runtime Seam Detector' version='3.6.0.CR1-v20140829-2008-B53'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.wtp.runtimes.tomcat.feature.feature.group' name='JBoss Tools Apache Tomcat Integration' version='1.1.0.CR1-v20140912-0834-B82'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.jst.feature.feature.group' name='JBoss Tools Java Standard Tools' version='3.6.0.CR1-v20140911-2133-B68'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.jsf.feature.feature.group' name='JBoss Tools JSF' version='3.6.0.CR1-v20140829-2008-B53'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.livereload.feature.feature.group' name='JBoss Tools LiveReload' version='1.2.0.CR1-v20140829-1424-B61'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.maven.jbosspackaging.feature.feature.group' name='JBoss Tools Maven Packaging Configurator' version='1.6.0.CR1-v20140912-1902-B92'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.maven.sourcelookup.feature.feature.group' name='JBoss Tools Maven Source Lookup' version='1.6.0.CR1-v20140912-1902-B92'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.vpe.browsersim.feature.feature.group' name='JBoss Tools Mobile Browser Simulator' version='3.6.0.CR1-v20140829-1847-B20'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.richfaces.feature.feature.group' name='JBoss Tools RichFaces' version='3.6.0.CR1-v20140829-2008-B53'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.vpe.feature.feature.group' name='JBoss Tools Visual Page Editor' version='3.6.0.CR1-v20140913-0332-B66'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.ws.feature.feature.group' name='JBoss WebServices Tools' version='1.7.0.CR1-v20140911-1803-B60'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.ide.eclipse.as.feature.feature.group' name='JBossAS Tools' version='3.0.0.CR1-v20140912-0834-B82'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.codehaus.groovy.jdt.patch.feature.group' name='JDT Core patch for Groovy-Eclipse plugin on Eclipse 4.4' version='2.9.1.xx-201409181507-e44'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.jvmmonitor.feature.group' name='JVM Monitor' version='3.8.1.201302030008'>
+      <repositories size='1'>
+        <repository location='http://www.jvmmonitor.org/updates/3.8'/>
+      </repositories>
+    </iu>
+    <iu id='com.googlecode.m2e.connectors.jaxws.feature.feature.group' name='m2e connector for jaxws' version='1.1.1.20121019'>
+      <repositories size='1'>
+        <repository location='http://jaxws-maven-connector.googlecode.com/svn/trunk/jaxws-connector-update-site'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipselabs.m2e.jaxb2.connector.feature.feature.group' name='m2e-jaxb2-connector' version='1.0.0.201202101429'>
+      <repositories size='1'>
+        <repository location='http://m2e-jaxb2-connector.eclipselabs.org.codespot.com/hg.update/org.eclipselabs.m2e.jaxb2.connector.update-site/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.maven.apt.feature.feature.group' name='Maven Integration for Eclipse JDT APT' version='1.1.0.201405210909'>
+      <repositories size='2'>
+        <repository location='http://download.jboss.org/jbosstools/targetplatforms/jbosstoolstarget/luna/'/>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.modisco.sdk.feature.feature.group' name='MoDisco SDK (Incubation)' version='0.12.1.201408191633'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/luna'/>
+        <repository location='http://download.eclipse.org/modeling/mdt/modisco/updates/milestones/0.12/'/>
+      </repositories>
+    </iu>
+    <iu id='net.jumperz.app.MMonjaDB.feature.group' name='MonjaDBFeature' version='1.0.16'>
+      <repositories size='1'>
+        <repository location='http://www.jumperz.net/update/'/>
+      </repositories>
+    </iu>
+    <iu id='de.weingardt.mylyn.gitlab.feature.group' name='Mylyn Gitlab Connector' version='1.1.0.201403192239'>
+      <repositories size='1'>
+        <repository location='http://pweingardt.github.com/mylyn-gitlab'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.papyrus.sdk.feature.feature.group' name='Papyrus UML' version='1.0.1.v201409170932'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/luna'/>
+      </repositories>
+    </iu>
+    <iu id='com.vmware.vfabric.ide.eclipse.tcserver.feature.group' name='Pivotal tc Server Integration for Eclipse' version='3.6.2.201409231656-CI-B469'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='com.vmware.vfabric.ide.eclipse.tcserver.insight.feature.group' name='Pivotal tc Server Spring Insight Integration for Eclipse' version='3.6.2.201409231656-CI-B469'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.cdi.seam.feature.feature.group' name='Seam 3 Tools' version='1.6.0.CR1-v20140829-2008-B53'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.jboss.tools.seam.feature.feature.group' name='Seam Tools' version='3.6.0.CR1-v20140829-2008-B53'>
+      <repositories size='1'>
+        <repository location='http://download.jboss.org/jbosstools/updates/development/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='org.springsource.ide.eclipse.dashboard.feature.group' name='Spring Dashboard (optional)' version='3.6.2.201409231646-CI-B48'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.ajdt.feature.source.feature.group' name='Spring IDE AJDT Developer Resources' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.ajdt.feature.feature.group' name='Spring IDE AJDT Integration (optional)' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.aop.feature.source.feature.group' name='Spring IDE AOP Developer Resources' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.aop.feature.feature.group' name='Spring IDE AOP Extension (optional)' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.autowire.feature.feature.group' name='Spring IDE Autowire Extension (optional)' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.autowire.feature.source.feature.group' name='Spring IDE Autowire Extension Developer Resources' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.batch.feature.source.feature.group' name='Spring IDE Batch Developer Resources' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.batch.feature.feature.group' name='Spring IDE Batch Extension (optional)' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.feature.feature.group' name='Spring IDE Core (required)' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.feature.source.feature.group' name='Spring IDE Core Developer Resources' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.integration.feature.source.feature.group' name='Spring IDE Integration, Flex and Web Services Developer Resources' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.integration.feature.feature.group' name='Spring IDE Integration, Flex and Web Services Extension (optional)' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.maven.feature.source.feature.group' name='Spring IDE Maven Integration Developer Resources' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.maven.feature.feature.group' name='Spring IDE Maven Support' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.mylyn.feature.feature.group' name='Spring IDE Mylyn Integration (optional)' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.mylyn.feature.source.feature.group' name='Spring IDE Mylyn Integration Sources' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.osgi.feature.feature.group' name='Spring IDE OSGi Extension (optional)' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.osgi.feature.source.feature.group' name='Spring IDE OSGi Extension Developer Resources' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.roo.feature.source.feature.group' name='Spring IDE Roo Integration Developer Resources' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.roo.feature.feature.group' name='Spring IDE Roo Support' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.security.feature.feature.group' name='Spring IDE Security Extension (optional)' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.security.feature.source.feature.group' name='Spring IDE Security Extension Developer Resources' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.data.feature.source.feature.group' name='Spring IDE Spring Data Integration Developer Resources' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.data.feature.feature.group' name='Spring IDE Spring Data Support' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.webflow.feature.feature.group' name='Spring IDE Web Flow Extension (optional)' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.webflow.feature.source.feature.group' name='Spring IDE Web Flow Extension Developer Resources' version='3.6.2.201408280949-CI-B730'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.uaa.feature.feature.group' name='Spring UAA Integration (optional)' version='3.6.2.201409231648-CI-B522'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.springframework.ide.eclipse.uaa.feature.source.feature.group' name='Spring UAA Integration Developer Resources' version='3.6.2.201409231646-CI-B48'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.team.svn.revision.graph.feature.group' name='Subversive Revision Graph (Optional) (Incubation)' version='0.7.9.I20110124-1700'>
+      <repositories size='5'>
+        <repository location='http://download.eclipse.org/technology/subversive/2.0/update-site/'/>
+        <repository location='http://download.jboss.org/jbosstools/updates/helios/'/>
+        <repository location='http://download.jboss.org/jbosstools/updates/indigo/'/>
+        <repository location='http://download.eclipse.org/technology/subversive/0.7/update-site/'/>
+        <repository location='http://download.eclipse.org/releases/luna'/>
+      </repositories>
+    </iu>
+    <iu id='org.polarion.eclipse.team.svn.connector.feature.group' name='Subversive SVN Connectors' version='2.3.0.I20120520-1700'>
+      <repositories size='1'>
+        <repository location='http://community.polarion.com/projects/subversive/download/eclipse/2.0/update-site/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.team.svn.mylyn.feature.group' name='Subversive SVN Integration for the Mylyn Project (Optional) (Incubation)' version='0.7.9.I20110207-1700'>
+      <repositories size='5'>
+        <repository location='http://download.eclipse.org/technology/subversive/2.0/update-site/'/>
+        <repository location='http://download.jboss.org/jbosstools/updates/helios/'/>
+        <repository location='http://download.jboss.org/jbosstools/updates/indigo/'/>
+        <repository location='http://download.eclipse.org/technology/subversive/0.7/update-site/'/>
+        <repository location='http://download.eclipse.org/releases/luna'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.team.svn.resource.ignore.rules.jdt.feature.group' name='Subversive SVN JDT Ignore Extensions (Optional) (Incubation)' version='0.7.9.I20101203-1700'>
+      <repositories size='5'>
+        <repository location='http://download.eclipse.org/technology/subversive/2.0/update-site/'/>
+        <repository location='http://download.jboss.org/jbosstools/updates/helios/'/>
+        <repository location='http://download.jboss.org/jbosstools/updates/indigo/'/>
+        <repository location='http://download.eclipse.org/technology/subversive/0.7/update-site/'/>
+        <repository location='http://download.eclipse.org/releases/luna'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.team.svn.feature.group' name='Subversive SVN Team Provider (Incubation)' version='0.7.9.I20120520-1700'>
+      <repositories size='3'>
+        <repository location='http://download.eclipse.org/technology/subversive/2.0/update-site/'/>
+        <repository location='http://download.eclipse.org/technology/subversive/0.7/update-site/'/>
+        <repository location='http://download.eclipse.org/releases/luna'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.team.svn.nl1.feature.group' name='Subversive SVN Team Provider Localization (Optional)' version='2.0.0.I20140609-1700'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/technology/subversive/2.0/update-site/'/>
+        <repository location='http://download.eclipse.org/releases/luna'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.team.svn.source.feature.group' name='Subversive SVN Team Provider Sources' version='2.0.1.I20140907-1700'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/technology/subversive/2.0/update-site/'/>
+        <repository location='http://download.eclipse.org/releases/luna'/>
+      </repositories>
+    </iu>
+    <iu id='org.polarion.eclipse.team.svn.connector.svnkit17.feature.group' name='SVNKit 1.7.4 Implementation (Optional)' version='2.3.0.I20120520-1700'>
+      <repositories size='1'>
+        <repository location='http://community.polarion.com/projects/subversive/download/eclipse/2.0/update-site/'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
