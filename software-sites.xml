@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmarks>
+   <site url="http://rgladwell.github.com/m2e-android/updates/" selected="true" name="Android for Maven Eclipse Update Site"/>
+   <site url="http://www.dartlang.org/eclipse/update/channels/dev/" selected="true" name="dart"/>
+   <site url="http://eclipse-color-theme.github.com/update" selected="true" name="eclipsecolortheme"/>
+   <site url="http://download.eclipse.org/sapphire/8/repository" selected="true" name="file:/jobs/genie.technology.sapphire/8.0.x/workspace/build/repository/ - metadata"/>
+   <site url="http://www.dartlang.org/eclipse/update/channels/stable/" selected="true" name="file:/mnt/data/b/build/slave/dart-editor-stable/build/dart/editor/tools/features/com.google.dart.tools.deploy.feature_releng/out/ReleaseIA32/buildRepo/ - metadata"/>
+   <site url="http://download.jboss.org/jbosstools/updates/development/luna/" selected="true" name="jboss tools"/>
+   <site url="http://download.jboss.org/jbosstools/updates/stable/helios" selected="true" name="JBoss Tools 3.2 - Stable Release"/>
+   <site url="http://download.jboss.org/jbosstools/updates/stable/kepler/" selected="true" name="JBoss Tools 4.1 - Core - Stable Release Update Site"/>
+   <site url="http://download.jboss.org/jbosstools/updates/stable/indigo/" selected="true" name="JBoss Tools Core 3.3 - Stable Release Update Site"/>
+   <site url="http://download.jboss.org/jbosstools/updates/helios/" selected="true" name="JBoss Tools Requirements - Composite Helios Mirror"/>
+   <site url="http://download.jboss.org/jbosstools/updates/indigo/" selected="true" name="JBoss Tools Requirements - Composite Indigo Mirror"/>
+   <site url="http://download.jboss.org/jbosstools/targetplatforms/jbosstoolstarget/kepler/" selected="true" name="JBoss Tools Target Platform - Kepler"/>
+   <site url="http://download.jboss.org/jbosstools/targetplatforms/jbosstoolstarget/luna/" selected="true" name="JBoss Tools Target Platform - Luna"/>
+   <site url="http://download.eclipse.org/releases/luna" selected="true" name="Luna"/>
+   <site url="http://m2e-jaxb2-connector.eclipselabs.org.codespot.com/hg.update/org.eclipselabs.m2e.jaxb2.connector.update-site/" selected="true" name="m2e jaxb"/>
+   <site url="http://jaxws-maven-connector.googlecode.com/svn/trunk/jaxws-connector-update-site" selected="true" name="m2e jaxws"/>
+   <site url="https://repository.sonatype.org/content/repositories/forge-sites/m2e-extras/0.14.0/N/0.14.0.201107060316/" selected="true" name="Maven Integration for Eclipse Update Extras Site"/>
+   <site url="http://download.eclipse.org/modeling/mdt/modisco/updates/milestones/0.12/" selected="true" name="modisco 0.12"/>
+   <site url="http://download.eclipse.org/mylyn/releases/luna" selected="true" name="Mylyn for Eclipse Luna"/>
+   <site url="http://pweingardt.github.com/mylyn-gitlab" selected="true" name="mylyn-gitlab"/>
+   <site url="http://download.eclipse.org/tools/gef/updates/releases" selected="true" name="org.eclipse.gef.repository"/>
+   <site url="https://dl-ssl.google.com/android/eclipse/" selected="true" name="p2repo"/>
+   <site url="http://dist.springsource.com/release/TOOLS/update/e4.4/" selected="true" name="SpringSource Update Site for Eclipse 4.4"/>
+   <site url="http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4" selected="true" name="sts"/>
+   <site url="http://download.eclipse.org/technology/subversive/0.7/update-site/" selected="true" name="Subversive Site"/>
+   <site url="http://download.eclipse.org/technology/subversive/2.0/update-site/" selected="true" name="Subversive Site"/>
+   <site url="http://download.eclipse.org/eclipse/updates/4.4" selected="true" name="The Eclipse Project Updates"/>
+   <site url="http://download.eclipse.org/webtools/repository/luna" selected="true" name="The Eclipse Web Tools Platform (WTP) software repository"/>
+   <site url="jar:file:/home/lm/Downloads/tptp.runtime.allInOne.linux.gtk.x86-TPTP-4.6.1.zip!/" selected="true" name="tptp"/>
+   <site url="http://community.polarion.com/projects/subversive/download/eclipse/2.0/update-site/" selected="true" name="Update Site"/>
+   <site url="http://eclipse-icons-editor.eclipselabs.org.codespot.com/git/site/org.eclipse_icons.editor.site/" selected="true" name="Update Site"/>
+   <site url="http://www.jumperz.net/update/" selected="true" name="Update Site"/>
+   <site url="http://www.jvmmonitor.org/updates/3.8" selected="true" name="Update Site"/>
+   <site url="https://svn.codespot.com/a/eclipselabs.org/mobile-web-development-with-phonegap/tags/r1.2/download" selected="true" name="Update Site"/>
+   <site url="http://soft.vub.ac.be/eclipse/update-3.7/" selected="true" name="update site: http://soft.vub.ac.be/eclipse/update-3.7/"/>
+</bookmarks>
